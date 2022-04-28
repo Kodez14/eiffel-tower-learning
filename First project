@@ -1,1 +1,50 @@
 
+<html>
+<h1><b>The Eiffel Tower</b></h1>
+<a href:"https://google.com" target=_blank><img             src="https://sololearnassets.azureedge.net/eiffel-tower.jpg"
+alt="Eiffel Tower" Width="70%">
+</a>
+<section>
+<body>
+<p><b>Eiffel Tower</b> is a wrought-iron tower that stands <b>1,063 ft (324 m)</b> tall in Paris. </p>
+
+<p>Currently, the <b>Eiffel Tower</b> is the most-visited monument in the world with over <b>7 million visitors a year</b>. </p>
+
+<p>Visitors can choose to go up using the Tower lift or the stairs. There are <b>1665</b> steps to the top.</p>
+
+<p><b>Transport</b></p>
+    <ul>
+        <li> Bus: lines 42, 69, 72, 82 and 87.</li>
+        <li> Metro: Trocadero, Ecole militaire.</li>
+        <li> Train: Champ de Mars - Tour Eiffel, line C.</li>
+    </ul>
+<p><b>Price:</b></p>
+<table border:"1">
+    <tr>
+        <th>Category</th>
+        <th>Price</th>
+    </tr>
+    <tr>
+        <td>Adults</td>
+        <td>12$</td>
+            
+    </tr>
+    <tr>
+        <td>Children</td>
+        <td>5$</td>
+    </tr> 
+</table>
+</body>
+</section>
+<section>
+    <form>
+        <label for=Children>Children</label>
+            <input type=number id=Children>
+   <br />
+        <label for=Adults>Adults</label>
+            <input type=number id=Adults>
+    </form>
+        
+</section>
+<footer>"Copyright"</footer>
+</html>
